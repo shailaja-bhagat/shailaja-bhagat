@@ -1,11 +1,17 @@
 I’m a WordPress Developer with 6.6+ years of experience, specializing in:
 
 🔧 Custom WordPress Plugins & Themes
+
 🎨 Gutenberg Blocks & ACF Blocks
+
 🛒 WooCommerce Development & Customization
+
 ⚙️ PHP, Laravel (API Development)
+
 ⚡ JavaScript, React, jQuery
+
 🔌 Integrations: HubSpot, Zoho, Twilio, Bluesnap, OpenTok
+
 🌐 SEO-optimized WordPress sites
 
 📌 What I Do
